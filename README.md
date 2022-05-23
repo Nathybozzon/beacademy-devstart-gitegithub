@@ -4,7 +4,7 @@ Repositório especialmente feito para registro de todos os comandos trabalhados 
 
 Comandos das Configurações Iniciais:
 
-git config --global user.name "nome"=> Configura o nome do uuário no git/n
+git config --global user.name "nome"=> Configura o nome do uuário no git<br/>
 git config --global user.email "email@email.com" => Configura o e-mail utilizado no git
 git => lista de diveros comando do git
  
